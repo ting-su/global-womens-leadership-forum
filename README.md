@@ -1,30 +1,33 @@
-# 全球女性领导力论坛 / Global Women's Leadership Forum
+# LikeLight — We Are the Light.
 
-A bilingual, responsive founding-stage website for a women’s leadership forum combining curated private roundtables and global webinars. Working name, event themes, and formats are proposals. No real speakers, partners, dates, scale or track record are implied.
+A global community for women leaders. Education, mentorship & legacy.
+Hosted by Ting Su · Menlo Park & online.
 
-## Preview
+The first forum, hosted by Amber S: **We Are the Light — LikeLight's First Online Forum**. 90 minutes online for women founders around the world and women students who dream of founding. Date, speakers and registration are to be announced.
 
-No build or dependency installation required. Open `index.html`, or run `python3 -m http.server 8765` from this directory.
+## Website
 
-## GitHub Pages
+https://ting-su.github.io/global-womens-leadership-forum/
 
-Publish from `main` / root in Settings → Pages → Deploy from a branch. `.nojekyll` disables Jekyll processing. All asset paths are relative and support project sites.
+Static, English-first bilingual site, hosted publicly with GitHub Pages from `main` / root. All assets use relative paths. No build dependencies; preview with `python3 -m http.server 8765`.
 
 ## Working features
 
-- Chinese / English switch for page content, metadata title and interaction labels
-- Mobile navigation and responsive layouts
-- Event format filter and topic / FAQ accordions
-- Accessible native dialogs, keyboard focus, Escape to close
-- Validated interest form downloads a text note locally; no network requests or submissions
-- Form fields clear when the dialog closes
-- Clearly labeled official external reading links
-- Reduced motion preference, print stylesheet
+- Full Chinese / English interface; original English launch copy preserved verbatim
+- Responsive navigation and original light / sun graphics
+- Programme with five proposed segments totaling 90 minutes
+- Theme filters, bilingual topic search, result count, empty state, clear filters
+- Session detail dialogs and local programme download
+- Interest note form with native email validation and text download; no submission or storage
+- Copy the original launch post (download fallback)
+- Keyboard / Escape dialog behavior, form clearing, reduced motion support
 
-## Before public registration
+Programme segments are proposals, not confirmed scheduling. Minute ranges are elapsed duration, not local clock times. No fictional dates, speakers, partners, prices or registration confirmations are used. No public comments, payments, subscriptions or formal mentorship matching are active.
 
-Confirm the organizing entity, brand/domain, official contact email, first event dates/cities/speakers and enrollment criteria. Replace the local interest-note action with a real registration endpoint and its privacy notice only when those details are ready. Keep private roundtable invitations and attendee information off the public site. Do not commit personal data or secrets.
+Before registration opens, confirm the event date/time/timezone, organizers and contact address, speakers, participation criteria, registration tool and privacy notice. Private Menlo Park gatherings must retain separate invitation and sharing policies.
 
-## Assets & privacy
+## Credits / privacy
 
-The globe, table and editorial graphics are original inline SVG/CSS. No third-party event photographs, speaker headshots or institutional logos are reused. Optional Google Fonts are requested with system fallbacks; no analytics, trackers or cookies are configured by this site. Hosting providers and external font services can process normal request metadata.
+Structure inspired by the Women's Forum GM2026 programme page (https://www.womens-forum.com/e/gm2026/en/sessions?page=2). LikeLight is independent and not affiliated with Women's Forum. Branding, writing and all SVG/CSS visuals are original or user-supplied; no third-party speaker photos or logos are reused.
+
+Google Fonts are optional, with system fallbacks. No site analytics, cookies, or tracking are configured; hosting and font providers may process normal request metadata. Social preview SVG is provided; platform support varies.
